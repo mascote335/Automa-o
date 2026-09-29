@@ -1,0 +1,6 @@
+Instruções para os usuários.
+Backup em KAUAN - 
+-
+Abrir sempre pelo agentes - selecionar data desejada, fazer login, voltar ao prompt de comando (cmd) e seguir as instruções escritas nele.
+Fazer a conferencia em outra guia "sempre" após o termino da operação.
+Finalizado!
